@@ -21,7 +21,7 @@ export default function Home() {
         </div>
 
         <div className="flex justify-between items-center">
-          <a href="/example-post" className="text-black hover:text-gray-600">
+          <a href="/the-value-of-physical-bitcoin-spaces" className="text-black hover:text-gray-600">
             The Value of Physical Bitcoin Spaces
           </a>
           <span className="text-sm text-gray-500">  -  March 10, 2024</span>
