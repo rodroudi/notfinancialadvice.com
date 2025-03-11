@@ -1,9 +1,13 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
-};
+import type { NextConfig } from 'next'
 
-export default nextConfig;
+const nextConfig: NextConfig = {
+  output: 'export',  // Enable static exports
+  images: {
+    unoptimized: true, // Required for static export
+  },
+  basePath: '',
+  // Disable server-side features since GitHub Pages is static
+  trailingSlash: true,
+}
+
+export default nextConfig
