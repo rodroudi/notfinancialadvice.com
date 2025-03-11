@@ -22,7 +22,7 @@ export default function Home() {
 
         <div className="flex justify-between items-center">
           <a href="/blog/example-post" className="text-black hover:text-gray-600">
-            Example Post Title
+            The Value of Physical Bitcoin Spaces
           </a>
           <span className="text-sm text-gray-500">  -  March 10, 2024</span>
         </div>
