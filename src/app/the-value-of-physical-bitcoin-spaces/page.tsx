@@ -80,7 +80,7 @@ export default function BitcoinSpacesPost() {
         </p>
 
         <p>
-          We had a high school student take two bus rides just to sit in the front row. That kid? Now he's at Vanderbilt—and still comes to NashBitDevs. (Shoutout to Will Owens.)
+          We had a high school student take two bus rides just to sit in the front row. That kid? Now he's at Vanderbilt—and still comes to NashBitDevs.
         </p>
 
         <p>
