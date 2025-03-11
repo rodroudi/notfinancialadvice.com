@@ -138,11 +138,11 @@ export default function BitcoinSpacesPost() {
         </p>
 
         <p>
-          That meetup? It sparked a conversation with Steve Myers. And from that, Nashville BitDevs was born.
+          That meetup? It sparked a conversation with Steve Myers. And from that, NashBitDevs was born.
         </p>
 
         <p>
-          Today? I'd argue Nash BitDevs is one of the best BitDevs in the country.
+          Today? I'd argue NashBitDevs is one of the best BitDevs in the country.
         </p>
 
         <p>
