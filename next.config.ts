@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   basePath: '',
   // Disable server-side features since GitHub Pages is static
   trailingSlash: true,
+  distDir: 'out'
 }
 
 export default nextConfig
