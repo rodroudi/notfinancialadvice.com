@@ -6,7 +6,7 @@ export default function BitcoinSpacesPost() {
         <time className="text-sm text-gray-500">March 10, 2024</time>
       </div>
 
-      <div className="prose prose-neutral max-w-none">
+      <div className="prose prose-neutral max-w-none prose-blockquote:font-normal prose-blockquote:not-italic prose-blockquote:border-none prose-blockquote:p-0 prose-blockquote:m-0 prose-blockquote:text-lg">
         <p>
           <a href="https://x.com/bitcoinpark_/status/1897681126627409972" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
             Watch the full presentation here →
@@ -27,8 +27,8 @@ export default function BitcoinSpacesPost() {
           One by one, people started walking in. Twenty of them. Some were skeptical, some excited. Then a guy—Twitter handle "Dr. Fomo"—shook my hand and said:
         </p>
 
-        <blockquote>
-          Rod, I thought I was the only Bitcoiner in town. My wife thinks I'm crazy. But now? Now I know I'm not alone.
+        <blockquote className="my-6">
+          "Rod, I thought I was the only Bitcoiner in town. My wife thinks I'm crazy. But now? Now I know I'm not alone."
         </blockquote>
 
         <p>
@@ -61,7 +61,7 @@ export default function BitcoinSpacesPost() {
           It started with a simple conversation. My friend Mills, who had just moved to town, turned to me and said:
         </p>
 
-        <blockquote>
+        <blockquote className="my-6">
           "I want to start a Bitcoin meetup."
         </blockquote>
 
@@ -125,7 +125,7 @@ export default function BitcoinSpacesPost() {
           As we went around the room introducing ourselves, Matthew casually mentioned:
         </p>
 
-        <blockquote>
+        <blockquote className="my-6">
           "I'm the creator of Block Screen. You may have heard of it on TFTC."
         </blockquote>
 
