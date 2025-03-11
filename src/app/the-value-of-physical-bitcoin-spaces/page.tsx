@@ -208,7 +208,7 @@ export default function BitcoinSpacesPost() {
         <p>
           More BitDevs.<br />
           More Bitcoin Parks.<br />
-          More Bitcoin Commons.<br />
+          More BitLabs.<br />
           More The Space.<br />
           More Presidio Bitcoin spaces.
         </p>
