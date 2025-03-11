@@ -14,14 +14,14 @@ export default function Home() {
 
       <section className="space-y-4">
         <div className="flex justify-between items-center">
-          <a href="/blog/getting-started" className="text-black hover:text-gray-600">
+          <a href="/getting-started" className="text-black hover:text-gray-600">
             Getting Started with My Blog
           </a>
           <span className="text-sm text-gray-500">  -  March 10, 2024</span>
         </div>
 
         <div className="flex justify-between items-center">
-          <a href="/blog/example-post" className="text-black hover:text-gray-600">
+          <a href="/example-post" className="text-black hover:text-gray-600">
             The Value of Physical Bitcoin Spaces
           </a>
           <span className="text-sm text-gray-500">  -  March 10, 2024</span>
