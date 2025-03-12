@@ -9,7 +9,7 @@ export default function BitcoinSpacesPost() {
       <div className="prose prose-neutral max-w-none prose-blockquote:font-normal prose-blockquote:not-italic prose-blockquote:border-none prose-blockquote:p-0 prose-blockquote:m-0 prose-blockquote:text-lg">
         <p>
           <a href="https://x.com/bitcoinpark_/status/1897681126627409972" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800">
-            Watch the full presentation here →
+            Watch the full presentation here
           </a>
         </p>
 
