@@ -240,17 +240,17 @@ export default function BitcoinSpacesPost() {
             <strong>Show up.</strong> Attend meetups. Participate. Be part of the energy.
           </li>
           <li>
-            <strong>Financially support them.</strong> If you believe in these spaces, help them grow. Be a member. Sponsor an open-source developer.
+            <strong>Spread the word.</strong> Tell people about these spaces. Share them. Because you never know—
           </li>
           <li>
-            <strong>Spread the word.</strong> Tell people about these spaces. Share them. Because you never know—
+            <strong>Financially support them.</strong> If you believe in these spaces, help them grow. Be a member. Sponsor an open-source developer.
           </li>
         </ol>
 
         <p>
           That one meetup.<br />
-          That one handshake.<br />
-          That one conversation...
+          That one conversation.<br />
+          That one handshake...
         </p>
 
         <p>
