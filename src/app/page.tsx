@@ -2,24 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="space-y-12">
-      <section>
-        <h1 className="text-2xl mb-4">
-          notfinancialadvice.com
-        </h1>
-        <p className="text-gray-600">
-          A collection of thoughts and experiences on freedom tech, longevity, and entrepreneurship.
-        </p>
-      </section>
-
-      <section className="space-y-4">
-        <div className="flex justify-between items-center">
-          <a href="/the-value-of-physical-bitcoin-spaces" className="text-black hover:text-gray-600">
-            The Value of Physical Bitcoin Spaces
-          </a>
-          <span className="text-sm text-gray-500">  -  March 10, 2024</span>
-        </div>
-      </section>
+    <div className="min-h-screen flex items-center justify-center bg-black">
+      <h1 className="text-white text-8xl font-bold tracking-wider">
+        LEARN BITCOIN
+      </h1>
     </div>
   );
 }
