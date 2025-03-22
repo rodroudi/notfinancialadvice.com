@@ -14,7 +14,7 @@ export default function Home() {
           Bitcoin Stats and Definitions by Clark Moody → <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors">bitcoin.clarkmoody.com/dashboard/</a>
         </div>
         <div className="text-center">
-          A daily curated email about Bitcoin → <a href="https://bitcoinpark.com/email" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors">bitcoinpark.com/email</a>
+          A Daily Curated Email About Bitcoin → <a href="https://bitcoinpark.com/email" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors">bitcoinpark.com/email</a>
         </div>
       </div>
     </div>
