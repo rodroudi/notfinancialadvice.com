@@ -7,14 +7,9 @@ export default function Home() {
         LEARN BITCOIN
       </h1>
       <div className="flex flex-col items-center space-y-4 text-white text-lg">
-        <a 
-          href="https://www.lopp.net/bitcoin-information/getting-started.html" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="hover:text-gray-300 transition-colors"
-        >
-          Getting started by Lopp
-        </a>
+        <div className="text-center">
+          Getting Started in Bitcoin by Lopp → <a href="https://www.lopp.net/bitcoin-information/getting-started.html" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors">lopp.net/bitcoin-information/getting-started.html</a>
+        </div>
         <a 
           href="https://bitcoin.clarkmoody.com/dashboard/" 
           target="_blank" 
