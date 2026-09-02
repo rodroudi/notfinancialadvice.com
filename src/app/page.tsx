@@ -11,7 +11,7 @@ export default function Home() {
           Getting Started in Bitcoin by Lopp → <a href="https://www.lopp.net/bitcoin-information/getting-started.html" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors break-words">lopp.net/bitcoin-information/getting-started.html</a>
         </div>
         <div className="text-center flex flex-wrap justify-center">
-          Bitcoin Stats and Definitions by Clark Moody → <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors break-words">bitcoin.clarkmoody.com/dashboard/</a>
+          Bitcoin Stats and Definitions by Clark Moody → <a href="https://dashboard.clarkmoody.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors break-words">dashboard.clarkmoody.com</a>
         </div>
         <div className="text-center flex flex-wrap justify-center">
           A Daily Curated Email About Bitcoin → <a href="https://bitcoinpark.com/email" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors break-words">bitcoinpark.com/email</a>
